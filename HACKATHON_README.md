@@ -147,90 +147,50 @@ Unlike existing fragrance platforms (Fragrantica, Basenotes, or social media), S
 
 ---
 
-## 🎬 SECTION 2: TEAM VIDEO SCRIPT
+## 🎬 SECTION 2: TEAM VIDEO SCRIPT (3-MINUTE PITCH)
 
-### Format: 
-All three team members answer each question, providing different perspectives that together create a comprehensive response.
+### Distribution Strategy:
+Each team member answers different questions based on their expertise and role, creating a cohesive narrative that flows naturally between speakers.
 
 ---
 
 ### **Question 1: JUDGMENT – What guided your decision-making in complex situations?**
 
-**[Member 1 – 20 seconds]**
+**[Member 1 – 35 seconds]**
 
-"From the start, we faced a critical choice: build for virality or engineer for trust. Every fragrance platform chases likes and shares. We chose differently. We analyzed L'Oréal Luxe's positioning—authenticity over trends—and built a credibility scoring system instead of a popularity algorithm. That judgment became our foundation: sustainable value requires trust engineering, not viral features."
-
-**[Member 2 – 20 seconds]**
-
-"My biggest judgment call was technology selection. We could've used simpler databases, but I pushed for PostgreSQL with real-time architecture because scalability mattered from day one. When teammates questioned the complexity, we evaluated it against L'Oréal's global scale requirements. The judgment was clear: build production-ready, not prototype-ready. That decision saved us from technical debt later."
-
-**[Member 3 – 20 seconds]**
-
-"I focused on feature prioritization. We had endless ideas—gamification, social features, AR try-ons. But judgment meant asking: what solves the core problem? We invested in AI bias detection before adding social features because trust had to come first. Every decision passed the test: does this serve authentic discovery or replicate existing noise? That discipline kept us focused."
+"Early in development, we faced a critical decision: should we prioritize viral engagement features or engineer for trust? Every fragrance platform out there chases likes and shares. We analyzed the problem differently—L'Oréal Luxe doesn't compete on trends; it competes on authenticity. We chose to build a credibility scoring system instead of a popularity algorithm. This meant rejecting conventional social media patterns and investing in AI bias detection and structured learning. It was complex, but our judgment was clear: trust engineering creates sustainable value, virality creates noise. That decision became the foundation of everything we built."
 
 ---
 
 ### **Question 2: RESILIENCE – What hurdles did you face and how did you overcome them?**
 
-**[Member 1 – 20 seconds]**
+**[Member 2 – 40 seconds]**
 
-"Our AI note extraction model initially had 40% accuracy—unacceptable for production. We debugged for three weeks straight, testing different NLP approaches. Instead of giving up, we built a hybrid system combining pre-trained models with domain-specific fragrance vocabulary. Fifteen iterations later, we hit 85% accuracy. Resilience meant refusing to compromise on quality."
-
-**[Member 2 – 20 seconds]**
-
-"Real-time credibility scoring crashed our database under load testing. Calculations were too expensive. I spent days optimizing queries, implementing caching layers, and restructuring data models. When one approach failed, I tried another. The breakthrough came from denormalizing scores and using background jobs. Resilience wasn't just persistence—it was systematic problem-solving until we found the solution."
-
-**[Member 3 – 20 seconds]**
-
-"None of us knew fragrance terminology when we started. Learning note pyramids, olfactory families, and composition theory while building the platform was overwhelming. We interviewed perfumers, consumed expert content, and even visited fragrance stores. When our learning paths seemed too technical, user feedback told us to simplify. We iterated seven times. Resilience meant staying humble and adapting based on real-world testing."
+"Our biggest challenge was the AI note extraction system. Training a model to understand subjective fragrance language—'woody,' 'powdery,' 'fresh'—while filtering out promotional buzzwords was incredibly difficult. Early versions had 40% accuracy. We were debugging for weeks. Instead of simplifying the feature, we pivoted: we built a hybrid system combining pre-trained NLP models with domain-specific training data scraped from expert reviews. We iterated over 15 versions, tested with real users, and refined continuously. Resilience for us wasn't just persistence—it was intelligent adaptation. We reached 85% extraction accuracy by combining technical rigor with user feedback loops. When real-time credibility scoring crashed our database, we didn't give up—we optimized queries, implemented caching, and restructured our data architecture until it worked at scale."
 
 ---
 
 ### **Question 3: AMBITION – What is the long-term vision of your project?**
 
-**[Member 1 – 20 seconds]**
+**[Member 3 – 35 seconds]**
 
-"Our ambition is making Scented Insights the trusted knowledge infrastructure for L'Oréal Luxe globally. Imagine every YSL, Armani, and Lancôme customer starting their journey not with ads, but with education. We're building white-label architecture so each brand can have its own community portal while sharing cross-portfolio insights. This isn't just a platform—it's an ecosystem."
-
-**[Member 2 – 20 seconds]**
-
-"I envision AI-powered fragrance intelligence at scale. Our emotion extraction and bias detection models can process millions of reviews, identifying trends before they go mainstream. Long-term, we want to provide L'Oréal Luxe with predictive insights: what notes resonate with Gen Z? Which sustainability messages drive purchases? We're building the data infrastructure that turns community wisdom into business intelligence."
-
-**[Member 3 – 20 seconds]**
-
-"My ambition is democratizing fragrance literacy worldwide. We want to eliminate the intimidation factor—where beginners feel confident exploring luxury fragrances because they understand the language. Imagine fragrance education as accessible as cooking tutorials. We see learning modules translated into 20+ languages, partnerships with perfumery schools, and Scented Insights becoming the standard for how luxury brands educate consumers. This is an education revolution."
+"Our ambition isn't just building a platform—it's reshaping how luxury fragrance is discovered and understood globally. We envision Scented Insights becoming the trusted knowledge infrastructure for L'Oréal Luxe: where every customer journey starts with learning, not advertising, and where AI-powered insights transform subjective art into accessible science. We see a future where fragrance literacy becomes universal, where sustainability is embedded in discovery, and where L'Oréal Luxe leads the industry by valuing expertise over influence. We're building white-label architecture for multi-brand scalability, developing multi-language AI models, and creating learning curricula that rival professional perfumery courses. This isn't a community platform—it's an education revolution disguised as one."
 
 ---
 
 ### **Question 4: EMPATHY – How do you support each other as a team?**
 
-**[Member 1 – 20 seconds]**
+**[Member 1 – 35 seconds]**
 
-"Empathy shaped our team culture. When someone struggled with complex algorithms, we didn't just debug—we whiteboarded the philosophy behind it together. When deadlines pressured us, we redistributed work based on individual strengths, not equal splits. We created psychological safety: asking for help is strength, not weakness. That empathy made us resilient as a team."
-
-**[Member 2 – 20 seconds]**
-
-"For me, empathy meant recognizing burnout before it happened. During intense development sprints, I noticed when teammates were overwhelmed and proactively suggested breaks or task switches. We celebrated small wins—not just big milestones. When someone's code didn't work, we approached it collaboratively, never critically. Empathy wasn't just support; it was creating an environment where everyone could do their best work."
-
-**[Member 3 – 20 seconds]**
-
-"Empathy extended beyond our team to our users. Every design decision passed the test: who might this exclude? When building learning paths, we assumed zero prior knowledge because we remembered feeling intimidated ourselves. When implementing credibility scoring, we ensured beginners could earn reputation through learning, not just expertise. Team empathy taught us product empathy—both made us better builders."
+"We built this project with empathy at the core—not just for users, but for each other. When one of us struggled with the credibility algorithm logic, we didn't just debug code—we whiteboarded the philosophy of trust together. When deadlines pressured us, we redistributed tasks based on individual strengths, not arbitrary splits. We created a team culture where asking for help is strength, not weakness. Every design decision was reviewed through the lens of 'who might this exclude?'—whether it's a beginner intimidated by fragrance jargon or a user with accessibility needs. Empathy shaped our product and our collaboration. We celebrated small wins, approached failures as learning opportunities, and ensured no one burned out. That psychological safety made us stronger as builders."
 
 ---
 
 ### **Question 5: LEARNING AGILITY – What unfamiliar areas did you encounter and how did you adapt?**
 
-**[Member 1 – 20 seconds]**
+**[Member 2 – 35 seconds]**
 
-"I had zero AI/ML experience before this project. I taught myself NLP fundamentals, studied bias detection algorithms, and learned to fine-tune language models through documentation and experimentation. The fragrance domain was equally foreign—I didn't know top notes from base notes. Learning agility meant parallel skill acquisition: technical depth and domain knowledge simultaneously. That cross-disciplinary synthesis became our competitive advantage."
-
-**[Member 2 – 20 seconds]**
-
-"Real-time database architecture was completely new to me. I learned Supabase, PostgreSQL optimization, and websocket infrastructure while building the platform. When I hit knowledge gaps, I didn't wait—I found experts, read source code, and built test environments. The fragrance industry positioning was also unfamiliar. I studied L'Oréal Luxe's brand architecture, competitive landscape, and luxury consumer psychology. Learning agility meant speed without compromising depth."
-
-**[Member 3 – 20 seconds]**
-
-"Trust algorithm engineering was uncharted territory. There's no textbook on credibility scoring for fragrance communities. I combined research from social networks, academic reputation systems, and Stack Overflow's scoring model, then adapted it to our context. Similarly, understanding luxury brand marketing required studying case studies and consumer behavior. Learning agility wasn't just acquiring information—it was synthesizing disparate knowledge into coherent innovation. We became domain-aware engineers, not just code executors."
+"None of us were fragrance experts when we started—we were engineers and designers. We had to rapidly learn perfumery fundamentals: note pyramids, fragrance families, olfactory composition. We consumed expert content, interviewed perfumers, and studied luxury brand positioning. Simultaneously, we taught ourselves real-time database architecture, AI model fine-tuning, and trust-based algorithm design—areas beyond our academic experience. Our learning agility wasn't about mastering everything; it was about synthesizing cross-disciplinary knowledge fast. When I hit knowledge gaps in PostgreSQL optimization or NLP techniques, I didn't wait—I found experts, read source code, built test environments. We became domain-aware engineers, not just code executors. That agility turned unfamiliarity into our competitive advantage—we designed for users like us: curious, eager to learn, but needing structure."
 
 ---
 
