@@ -1,0 +1,4 @@
+project_id = "qvcizdjroslgjzdcpwab"
+
+[functions.extract-notes]
+verify_jwt = false
